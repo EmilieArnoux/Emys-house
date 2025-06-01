@@ -1,5 +1,6 @@
 .navbar { 
-    background-color: coral;
+    background-color: rgb(210, 132, 103);
+    height: 120px;
 }
 
 .navbar-content {
@@ -10,11 +11,15 @@
   margin: 50px;
 }
 
+.avatar {
+  height: 60px;
+}
+
 .emyhouse {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 1.5rem;
+  font-size: 60px;
   font-weight: bold;
   color: white;
   margin-top: 20px;
